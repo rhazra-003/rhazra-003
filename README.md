@@ -1,4 +1,4 @@
-### Hello! Ridam is here! 👋
+### Namaste, Ridam is here! 🙏🇮🇳
 
 <!--
 **rhazra-003/rhazra-003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
