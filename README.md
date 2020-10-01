@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **JavaScript** and **Game Development**.
 - 👯 I’m looking to collaborate on some projects related to **Machine Learning**.
 - 💬 Ask me about **Football**, **F1**, **History**, random **Trivia** other than the geeky stuffs.
-- 😌 Motto: Think Twice, Code Once!
+- 😌 Motto: **Think Twice, Code Once!**
 - 😄 Pronouns: He or Him.
 - ⚡ Random fact that nobody asked for: Pineapple works as a natural meat tenderizer. So next time you dine out at BBQ Nation, don't avoid the Pineapples.
 
