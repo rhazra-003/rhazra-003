@@ -5,11 +5,11 @@
 - 🔭 I’m currently working on my own **Website**.
 - 🤓 Familiar with **C/C++**, **Python**, **MATLAB**, **HTML**, **CSS**, **Bootstrap**.
 - 🌱 I’m currently learning **JavaScript** and **Game Development**.
-- 👯 I’m looking to collaborate on some projects related to **Machine Learning**.
+- 👯 I’m looking to collaborate on some projects related to **Data Analytics**/**Front End Development**.
 - 💬 Ask me about **Football**, **F1**, **History**, random **Trivia** other than the geeky stuffs.
 - 😌 Motto: **Think Twice, Code Once!**
-- 😄 Pronouns: He or Him.
-- ⚡ Random fact that nobody asked for: Pineapple works as a natural meat tenderizer. So next time you dine out at BBQ Nation, don't avoid the Pineapples.
+- 😄 Pronouns: **He** or **Him**.
+- ⚡ Random fact that nobody asked for: **Pineapple works as a natural meat tenderizer. So next time you dine out at BBQ Nation, don't avoid the Pineapples**.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Algo_Ridam?style=social)](https://twitter.com/Algo_Ridam) 
 [![Linkedin Badge](https://img.shields.io/badge/-algoridam003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/algoridam003/)](https://www.linkedin.com/in/algoridam003/)
