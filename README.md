@@ -2,9 +2,9 @@
 
 ### Few things about Me: 😎
 
-- 🔭 I’m currently working on my own **Website**.
-- 🤓 Familiar with **C/C++**, **Python**, **MATLAB**, **HTML**, **CSS**, **Bootstrap**.
-- 🌱 I’m currently learning **JavaScript** and **Game Development**.
+- 🔭 I’m currently working on my own **Game**.
+- 🤓 Familiar with **C/C++**, **Java**, **Python**, **MATLAB**, **HTML**, **CSS**, **Bootstrap**, **SQL**.
+- 🌱 I’m currently learning **JavaScript**, **Game Development**.
 - 👯 I’m looking to collaborate on some projects related to **Data Analytics**/**Front End Development**.
 - 💬 Ask me about **Football**, **F1**, **History**, random **Trivia** other than the geeky stuffs.
 - 😌 Motto: **Think Twice, Code Once!**
@@ -17,4 +17,4 @@
 [![Medium Badge](https://img.shields.io/badge/-@rhazra0602-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rhazra0602/)](https://medium.com/@rhazra0602)
 [![Gmail Badge](https://img.shields.io/badge/-rhazra0602@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhazra0602@gmail.com)](mailto:rhazra0602@gmail.com)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/rhazra-003) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=rhazra-003.visitor-badge)](https://github.com/rhazra-003) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rhazra-003)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/rhazra-003) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rhazra-003)
