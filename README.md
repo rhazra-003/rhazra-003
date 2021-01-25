@@ -10,7 +10,7 @@
 - 😌 Motto: **Think Twice, Code Once!**
 - ⚡ Random fact that nobody asked for: **Pineapple works as a natural meat tenderizer. So next time you dine out at BBQ Nation, don't avoid the Pineapples**.
 
- ![](image/codingcover.png)
+<img src="image/codingcover.jpeg" width="500" height="400">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Algo_Ridam?style=social)](https://twitter.com/Algo_Ridam) 
 [![Linkedin Badge](https://img.shields.io/badge/-algoridam003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/algoridam003/)](https://www.linkedin.com/in/algoridam003/)
