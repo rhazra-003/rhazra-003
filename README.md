@@ -2,14 +2,15 @@
 
 ### Few things about Me: 😎
 
-- 🔭 I’m currently working on my own **Game**.
-- 🤓 Familiar with **C/C++**, **Java**, **Python**, **MATLAB**, **HTML**, **CSS**, **Bootstrap**, **SQL**.
-- 🌱 I’m currently learning **JavaScript**, **Game Development**.
+- 🔭 I’m currently working on a project regarding **NLP**.
+- 🤓 Familiar with **C/C++**, **Java**, **Python**, **MATLAB**, **HTML**, **CSS**, **SQL**.
+- 🌱 I’m currently learning **JavaScript**, **Graph Algorithms** and **Sementic Analysis**.
 - 👯 I’m looking to collaborate on some projects related to **Data Analytics**/**Front End Development**.
 - 💬 Ask me about **Football**, **F1**, **History**, random **Trivia** other than the geeky stuffs.
 - 😌 Motto: **Think Twice, Code Once!**
-- 😄 Pronouns: **He** or **Him**.
 - ⚡ Random fact that nobody asked for: **Pineapple works as a natural meat tenderizer. So next time you dine out at BBQ Nation, don't avoid the Pineapples**.
+
+ ![](image/codingcover.png)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Algo_Ridam?style=social)](https://twitter.com/Algo_Ridam) 
 [![Linkedin Badge](https://img.shields.io/badge/-algoridam003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/algoridam003/)](https://www.linkedin.com/in/algoridam003/)
