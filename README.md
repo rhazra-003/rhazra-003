@@ -2,15 +2,19 @@
 
 ### Few things about Me: 😎
 
-- 🔭 I’m currently working on a project regarding **ChatBot Development**.
-- 🤓 Familiar with **C/C++**, **Java**, **Python**, **MATLAB**, **HTML**, **CSS**, **SQL**, **Unity**.
-- 🌱 I’m currently learning **JavaScript**, **Graph Algorithms**.
-- 👯 I’m looking to collaborate on some projects related to **Data Analytics**/**Front End Development**.
+- 🔭 I’m currently working on a project regarding **ChatBot Generator** with is part of my Internship at **UoSC**.
+- 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML**, **CSS**, **SQL**, **Unity**, **Rasa**.
+- 🌱 I’m currently learning **R**, **Graph Algorithms**, **DeepPavlov**.
+- 👯 I’m always eager to collaborate on some projects related to **ChatBot**, **Data Analytics**, **Front End Development**.
 - 💬 Ask me about **Football**, **F1**, **History**, random **Trivia** other than the geeky stuffs.
 - 😌 Motto: **Think Twice, Code Once!**
 - ⚡ Random fact that nobody asked for: **Pineapple works as a natural meat tenderizer. So next time you dine out at BBQ Nation, don't avoid the Pineapples**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhazra-003)
+<br>
+<br>
+
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=rhazra-003&show_icons=true&locale=en" alt="rhazra-003" /></p>
 <br>
 <br>
 
