@@ -18,7 +18,7 @@
 <br>
 <br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Algo_Ridam?style=social)](https://twitter.com/Algo_Ridam) 
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-algoridam003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/algoridam003/)](https://www.linkedin.com/in/algoridam003/)
 [![Instagram Badge](https://img.shields.io/badge/-algo._.ridam-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/algo._.ridam/)](https://instagram.com/algo._.ridam)
 [![Medium Badge](https://img.shields.io/badge/-@rhazra0602-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rhazra0602/)](https://medium.com/@rhazra0602)
