@@ -12,12 +12,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhazra-003)
 <br>
-<br>
 
-<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=rhazra-003&show_icons=true&locale=en" alt="rhazra-003" /></p>
-<br>
-<br>
 
+<a href="#">
+    <img align="right" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="195px">
+  </a>
+
+<a href="https://github.com/rhazra-003/rhazra-003">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhazra-003&show_icons=true&line_height=27&count_private=true&title_color=8e9aaf&text_color=8e9aaf&icon_color=cbc0d3&bg_color=1d1f21" alt="Ridam Hazra's GitHub Stats" />
+</a>
+<br>
+<br>
  
 [![Linkedin Badge](https://img.shields.io/badge/-algoridam003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/algoridam003/)](https://www.linkedin.com/in/algoridam003/)
 [![Instagram Badge](https://img.shields.io/badge/-algo._.ridam-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/algo._.ridam/)](https://instagram.com/algo._.ridam)
