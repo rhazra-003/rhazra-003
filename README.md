@@ -2,9 +2,9 @@
 
 ### Few things about Me: 😎
 
-- 🔭 I’m currently working on a project regarding **ChatBot Generator** which is part of my Internship at **UofSC**.
+- 🔭 I’m currently working on a project regarding **ChatBot Generators** and **Randomised Controlled Trial** which is part of my Internship at **AI Institute, UofSC**.
 - 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML**, **CSS**, **SQL**, **Unity**, **Rasa**.
-- 🌱 I’m currently learning **R**, **Graph Algorithms**, **DeepPavlov**.
+- 🌱 I’m currently learning **Django**, **Graph Algorithms**, **DeepPavlov**.
 - 👯 I’m always eager to collaborate on some projects related to **ChatBot**, **Data Analytics** and anything related to **Data Science**.
 - 💬 Ask me about **Football**, **F1**, **History**, random **Trivia** other than the geeky stuffs.
 - 😌 Motto: **Think Twice, Code Once!**
