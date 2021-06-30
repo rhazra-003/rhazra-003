@@ -17,13 +17,10 @@
 
 <br>
 <br>
- 
+<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-algoridam003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/algoridam003/)](https://www.linkedin.com/in/algoridam003/)
 [![Instagram Badge](https://img.shields.io/badge/-algo._.ridam-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/algo._.ridam/)](https://instagram.com/algo._.ridam)
 [![Medium Badge](https://img.shields.io/badge/-@rhazra0602-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rhazra0602/)](https://medium.com/@rhazra0602)
 [![Gmail Badge](https://img.shields.io/badge/-rhazra0602@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhazra0602@gmail.com)](mailto:rhazra0602@gmail.com)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/rhazra-003) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rhazra-003)
-
-
-
-
