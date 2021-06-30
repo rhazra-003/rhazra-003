@@ -13,8 +13,6 @@
 
 <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/gif.gif" align="right" width="275" height="250" /></a>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=rhazra-003&theme=onedark&show_icons=true&locale=en&layout=compact)<br>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rhazra-003&theme=onedark&show_icons=true&count_private=true)<br>
 
 <br>
