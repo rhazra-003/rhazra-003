@@ -2,7 +2,7 @@
 
 ### Few things about Me: 😎
 
-- 🔭 I’m currently working on a project for **ChatBot Generators** at **AI Institute, UofSC** and I trying my hands in **Kaggle Competitions**.
+- 🔭 I’m currently working on a research project regarding **ChatBot Generators** at **AI Institute, UofSC** and I trying my hands in **Competitive Programming**.
 - 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML**, **CSS**, **SQL**, **Django**, **Rasa**.
 - 🌱 I’m currently learning **Graph Algorithms** and starting my **Competitive Programming** journey.
 - 👯 I’m always eager to collaborate on some projects related to **ChatBot**, **Data Analytics** and anything related to **Data Science**.
