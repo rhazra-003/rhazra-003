@@ -2,10 +2,10 @@
 
 ### Few things about Me: 😎
 
-- 🔭 I’m currently working on a research project regarding **ChatBot Generators** at **AI Institute, UofSC** and I trying my hands in **Competitive Programming**.
-- 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML**, **CSS**, **SQL**, **Django**, **Rasa**.
+- 🔭 I’m currently working on a research project regarding **Identification of anomaly and malicious traffic in the IoT network using Machine Learning** at **IIT Roorkee** and I trying my hands in **Competitive Programming**.
+- 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML/CSS**, **SQL**, **Django**, **Machine Learning Algorithms**, **Rasa**.
 - 🌱 I’m currently learning **Graph Algorithms** and starting my **Competitive Programming** journey.
-- 👯 I’m always eager to collaborate on some projects related to **ChatBot**, **Data Analytics** and anything related to **Data Science**.
+- 👯 I’m always eager to collaborate on some projects related to **Data Modelling** and anything related to **Data Science**.
 - 💬 Ask me about **Football**, **F1**, **History**, random **Trivia** other than the geeky stuffs.
 - 😌 Motto: **Think Twice, Code Once!**
 - ⚡ Random fact that nobody asked for: **Pineapple works as a natural meat tenderizer. So next time you dine out at BBQ Nation, don't avoid the Pineapples**.
