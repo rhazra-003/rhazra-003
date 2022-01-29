@@ -6,7 +6,7 @@
 - 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML/CSS**, **SQL**, **Django**, **Machine Learning Algorithms**, **Rasa**.
 - 🌱 I’m currently learning **Graph Algorithms** for **Sementics Techniques** and starting my **Competitive Programming** journey.
 - 👯 I’m always eager to collaborate on some projects on the domain of **Data Science**.
-- 💬 Ask me about **Football**, **F1**, **History**, random **Trivia** other than the geeky stuffs.
+- 💬 Ask me about **Football**, **F1**, **World War History** and random **Trivia** other than the above geeky stuffs.
 - 😌 Motto: **You can do anything in your life, you just have to make believe that you can do everything in your life!**
 - ⚡ Random fact that nobody asked for: **Pineapple works as a natural meat tenderizer. So next time you dine out at BBQ Nation, don't avoid the Pineapples**.
 
