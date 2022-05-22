@@ -2,7 +2,7 @@
 
 ### Few things about Me: 😎
 
-- 🔭 I’m currently working on **two research projects** regarding **Identification of anomaly and malicious traffic in the IoT network using Machine Learning** at **IIT Roorkee** and the other one on **Agricultural Chatbots**.
+- 🔭 I’m currently working on **one research project** regarding **Agricultural Chatbots**.
 - 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML/CSS**, **SQL**, **Django**, **Machine Learning Algorithms**, **Rasa**.
 - 🌱 I’m currently learning **Graph Algorithms** for **Sementics Techniques** and starting my **Competitive Programming** journey.
 - 👯 I’m always eager to collaborate on some projects on the domain of **Data Science**.
