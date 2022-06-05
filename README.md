@@ -3,9 +3,9 @@
 ### Few things about Me: 😎
 
 - 🔭 I’m currently working on **one research project** regarding **Agricultural Chatbots**.
-- 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML/CSS**, **SQL**, **Django**, **Machine Learning Algorithms**, **Rasa**.
-- 🌱 I’m currently learning **Graph Algorithms** for **Sementics Techniques** and starting my **Competitive Programming** journey.
-- 👯 I’m always eager to collaborate on some projects on the domain of **Data Science**.
+- 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML/CSS**, **SQL**, **Django**, **Machine Learning Algorithms**, **Rasa**, **Dialogflow**.
+- 🌱 I’m currently learning **Sementics Techniques** and **MERN Stack** and also focusing on improving my **Problem Solving** skills.
+- 👯 I’m always eager to collaborate on some projects on the domain of **Data Science** and **Frontend Development**.
 - 💬 Ask me about **Football**, **F1**, **World War History** and random **Trivia** other than the above geeky stuffs.
 - 😌 Motto: **You can do anything in your life, you just have to make believe that you can do everything in your life!**
 - ⚡ Random fact that nobody asked for: **Pineapple works as a natural meat tenderizer. So next time you dine out at BBQ Nation, don't avoid the Pineapples**.
@@ -18,10 +18,19 @@
 
 <br>
 <br>
-<br>
 
 [![Ridam's github activity graph](https://activity-graph.herokuapp.com/graph?username=rhazra-003&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+
+**Competitive Programming Profiles:**
+<br>
+<br>
+**LeetCode:** [rhazra0602](https://leetcode.com/rhazra0602/) 
+**CodeChef:** [rhazra-003](https://www.codechef.com/users/rhazra003) 
+**CodeForces:** [rhazra0602](https://codeforces.com/profile/rhazra0602)
+<br>
+<br>
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-algoridam003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/algoridam003/)](https://www.linkedin.com/in/algoridam003/)
