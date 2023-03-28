@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **one research project** regarding **Agricultural Chatbots**.
 - 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML/CSS**, **SQL**, **Django**, **Machine Learning Algorithms**, **Rasa**, **Dialogflow**.
-- 🌱 I’m currently learning **Spring Boot Framework** and **Google Analytics**.
+- 🌱 I’m currently learning **Spring Boot Framework** and **R**.
 - 👯 I’m always eager to collaborate on some projects on the domain of **Chatbots**, **Artificial Intelligence** and **Computer Vision**.
 - 💬 Ask me about **Football**, **F1**, **World War History** and random **Trivia** other than the above geeky stuffs.
 - 😌 Motto: **You can do anything in your life, you just have to make believe that you can do everything in your life!**
