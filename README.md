@@ -2,9 +2,7 @@
 
 ### Few things about Me: 😎
 
-- 🔭 I’m currently working on **one research project** regarding **Agricultural Chatbots**.
-- 🤓 Familiar with **C/C++**, **Java**, **JavaScript**, **Python**, **MATLAB**, **HTML/CSS**, **SQL**, **Django**, **Machine Learning Algorithms**, **Rasa**, **Dialogflow**.
-- 🌱 I’m currently learning **Spring Boot Framework** and **R**.
+- 🤓 Familiar with **C/C++**, **Java**, **AngularJS**, **Python**, **MATLAB**, **SQL**, **Django**, **Machine Learning Algorithms**, **Rasa**, **Dialogflow**.
 - 👯 I’m always eager to collaborate on some projects on the domain of **Chatbots**, **Artificial Intelligence** and **Computer Vision**.
 - 💬 Ask me about **Football**, **F1**, **World War History** and random **Trivia** other than the above geeky stuffs.
 - 😌 Motto: **You can do anything in your life, you just have to make believe that you can do everything in your life!**
@@ -16,11 +14,6 @@
 <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/gif.gif" align="right" width="275" height="250" /></a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rhazra-003&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-
-<br>
-<br>
-
-[![Ridam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rhazra-003&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
