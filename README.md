@@ -13,8 +13,6 @@
 
 <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/gif.gif" align="right" width="275" height="250" /></a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rhazra-003&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-
 <br>
 
 **Competitive Programming Profiles:**
